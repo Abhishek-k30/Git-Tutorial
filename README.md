@@ -77,3 +77,4 @@ staging area
 
 
 merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate 
+#Adding extra line to check whether git tracks remote commit or not.    
